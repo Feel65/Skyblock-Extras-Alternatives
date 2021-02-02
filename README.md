@@ -7,9 +7,9 @@ For when you don't want to break EULA
 
 And I guess these mods too
 
-- [Moulberry's NEU](https://github.com/Moulberry/NotEnoughUpdates/releases)
+- [Moulberry's NEU (head to #neu-prereleases)](https://discord.gg/moulberry)
 - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- [SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
+- [SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5)
 - [Cowlection](https://github.com/cow-mc/Cowlection/releases)
 - [PetInfo](https://github.com/CroSafan/PetInfo/releases/)
 
