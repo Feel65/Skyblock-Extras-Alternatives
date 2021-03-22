@@ -10,8 +10,8 @@ And I guess these mods too
 - [Moulberry's NEU (head to #neu-prereleases)](https://discord.gg/moulberry)
 - [Sychic & Lily Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-- [SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5)
-- [Cowlection](https://github.com/cow-mc/Cowlection/releases)
-- [PetInfo](https://github.com/CroSafan/PetInfo/releases/)
+- [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5)
+- [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases)
+- [CroSafan's PetInfo](https://github.com/CroSafan/PetInfo/releases/)
 
 Now that I saved you $5, consider giving that money to me instead.
