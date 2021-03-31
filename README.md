@@ -14,4 +14,15 @@ And I guess these mods too
 - [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases)
 - [CroSafan's PetInfo](https://github.com/CroSafan/PetInfo/releases/)
 
+# Reasons NOT to Buy SBE:
+- [Shitty puzzle solvers v1](https://imgur.com/a/2xcDUBN)
+- [Crashes v1](https://imgur.com/a/nXh749Y)
+- [Obfuscated to fuck](https://imgur.com/a/41aSbvw) (this means we cant read the code unless we spend hours decrpying it, meaning it is really unsafe, and also that it can hide stolen code. also if you crash, no one fuckin knows why because the crashlog is just spam of iIiIiIiiIIiIiiIiIiiiIiIiIiIiiIiiiiIIIiiIiIiiIiiIiIiiIiiIiii)
+- [Steals from DSM] (cant find screenshot but its the tic tac toe solver)
+- [Steals from SBC](https://imgur.com/a/TpkgDGU)
+- [Blatantly steals from patcher](https://imgur.com/a/rjNF5aT)
+- [Blatantly steals from NEU](https://imgur.com/a/wqA6KZA)
+- Performance issues - SBE is notorious for destroying your FPS. Their attempt at fixing it was blatantly stealing patcher fps features.
+- Complex is a shitty human being - illegally steals other people's work that they spent hundreds of hours on and makes money off of it.
+
 Now that I saved you $5, consider giving that money to me instead.
