@@ -9,9 +9,9 @@ And I guess these mods too
 
 | Name | Description | Developer |
 | --- | --- | --- |
-| [**NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784)) | Lot's of stuff that are essential for skyblock | [Moulberry](https://moulberry.codes/) |
-| [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | Even more cool shit | [Sychic](https://github.com/Sychic) and [Lily](https://github.com/My-Name-Is-Jeff) |
-| [**Patcher**](https://sk1er.club/mods/patcher) | Performance enhancements, bug fixes, and QOL | [Asbyth](https://github.com/asbyth) ([Sk1erLLC](https://github.com/sk1erllc/)) |
+| [**NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784)) | Lot's of stuff that are essential for skyblock: [**List of features**](https://pastebin.pl/view/c8854a1f) | [Moulberry](https://moulberry.codes/) |
+| [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | Even more cool shit: [**List of features**](https://github.com/Skytils/SkytilsMod/blob/main/README.md) | [Sychic](https://github.com/Sychic) and [Lily](https://github.com/My-Name-Is-Jeff) |
+| [**Patcher**](https://sk1er.club/mods/patcher) | Performance enhancements, bug fixes, and QOL changes: [**List of features**](https://github.com/LunaNotdev/Patcher-Explanation) | [Asbyth](https://github.com/asbyth) ([Sk1erLLC](https://github.com/sk1erllc/)) |
 | [**SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5) | You know what this is | [Biscuit](https://biscuit.codes/) |
 | [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some cool things that are miniscule but are cool nonetheless | [Cow](https://github.com/cow-mc/) |
 | [**PetInfo**](https://github.com/CroSafan/PetInfo/releases/) | Pet Info HUD. NEU has this too but this one is more simple and more like SBE | [CroSafan](https://github.com/CroSafan) |
