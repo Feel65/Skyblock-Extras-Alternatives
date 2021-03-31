@@ -22,6 +22,7 @@ And I guess these mods too
 - [Steals from SBC](https://imgur.com/a/TpkgDGU)
 - [Blatantly steals from Patcher](https://imgur.com/a/rjNF5aT)
 - [Blatantly steals from NEU](https://imgur.com/a/wqA6KZA)
+- Breaks MC EULA - Mojang can take down the mod at any time and you'd lose $5
 - Performance issues - SBE is notorious for destroying your FPS. Their attempt at fixing it was blatantly stealing patcher fps features.
 - Complex is a shitty human being - illegally steals other people's work that they spent hundreds of hours on and makes money off of it.
 
