@@ -22,7 +22,7 @@ And I guess these mods too
 - [**Spams the fuck out of your logs v2**](https://imgur.com/a/xQm7jeN) (i dont understand how you can fuck up this badly)
 - [**Spams the fuck out of your logs v3**](https://imgur.com/a/tFODSqR) (its not even funny anymore)
 - [**Spams the fuck out of your logs v4**](https://imgur.com/a/ZqTvjuf) (it's just depressing at this point)
-- [**Blatantly steals from DSM**] (cant find screenshot but its the tic tac toe solver, it's literally the same thing)
+- **Blatantly steals from DSM** (cant find screenshot but its the tic tac toe solver, it's literally the same thing)
 - [**Blatantly Steals from SBC**](https://imgur.com/a/TpkgDGU)
 - [**Blatantly steals from Patcher**](https://imgur.com/a/rjNF5aT)
 - [**Blatantly steals from NEU**](https://imgur.com/a/wqA6KZA)
