@@ -18,7 +18,7 @@ And I guess these mods too
 - [Shitty puzzle solvers v1](https://imgur.com/a/2xcDUBN)
 - [Crashes v1](https://imgur.com/a/nXh749Y)
 - [Obfuscated to fuck](https://imgur.com/a/41aSbvw) (this means we cant read the code unless we spend hours decrpying it, meaning it is really unsafe, and also that it can hide stolen code. also if you crash, no one fuckin knows why because the crashlog is just spam of iIiIiIiiIIiIiiIiIiiiIiIiIiIiiIiiiiIIIiiIiIiiIiiIiIiiIiiIiii)
-- [Spams the fuck out of your logs v1](https://imgur.com/a/zanoqTA) (no one is going to want to help ypu after this)
+- [Spams the fuck out of your logs v1](https://imgur.com/a/zanoqTA) (no one is going to want to help you after this)
 - [Spams the fuck out of your logs v2](https://imgur.com/a/xQm7jeN) (i dont understand how you can fuck up this badly)
 - [Spams the fuck out of your logs v3](https://imgur.com/a/tFODSqR) (its not even funny anymore)
 - [Spams the fuck out of your logs v4](https://imgur.com/a/ZqTvjuf) (it's just depressing at this point)
