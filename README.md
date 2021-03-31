@@ -7,14 +7,14 @@ For when you don't want to break EULA
 
 And I guess these mods too
 
-| Mod | 
-| --- | 
-| [**Moulberry's NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784))
-| [**Sychic & Lily Skytils**](https://github.com/Skytils/SkytilsMod/releases)
-| [**Sk1er's Patcher**](https://sk1er.club/mods/patcher)
-| [**Biscuit's SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5)
-| [**Cow's Cowlection**](https://github.com/cow-mc/Cowlection/releases)
-| [**CroSafan's PetInfo**](https://github.com/CroSafan/PetInfo/releases/)
+| Name | Description | Developer |
+| --- | --- | --- |
+| [**NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784)) | Lot's of stuff that are essential for skyblock | Moulberry |
+| [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | Even more cool shit | Sychic and Lily |
+| [**Patcher**](https://sk1er.club/mods/patcher) | Performance enhancements, bug fixes, and QOL | Sk1erLLC |
+| [**SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5) | You know what this is | Biscuit |
+| [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some cool things that are miniscule but are cool nonetheless | Cow |
+| [**PetInfo**](https://github.com/CroSafan/PetInfo/releases/) | Pet Info HUD. NEU has this too but this one is more simple and more like SBE | CroSafan |
 
 # Reasons NOT to Buy SBE:
 - [**Shitty puzzle solvers v1**](https://imgur.com/a/2xcDUBN)
