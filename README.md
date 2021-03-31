@@ -7,7 +7,7 @@ For when you don't want to break EULA
 
 And I guess these mods too
 
-- [**Moulberry's NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784)
+- [**Moulberry's NEU**](https://discord.gg/moulberry) (head to [**#neu-updates**](https://canary.discord.com/channels/516977525906341928/693586404256645231/825149965336182784))
 - [**Sychic & Lily Skytils**](https://github.com/Skytils/SkytilsMod/releases)
 - [**Sk1er's Patcher**](https://sk1er.club/mods/patcher)
 - [**Biscuit's SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5)
