@@ -32,4 +32,6 @@ And I guess these mods too
 - **Performance issues** - SBE is notorious for destroying your FPS. Their attempt at fixing it was blatantly stealing patcher fps features.
 - **Complex is a shitty human being** - illegally steals other people's work that they spent hundreds of hours on and makes money off of it.
 
+# EVEN IF YOU ALREADY BOUGHT SBE, DO NOT USE IT!
+
 Now that I saved you $5, consider giving that money to me instead.
