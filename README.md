@@ -18,8 +18,8 @@ And I guess these mods too
 - [Shitty puzzle solvers v1](https://imgur.com/a/2xcDUBN)
 - [Crashes v1](https://imgur.com/a/nXh749Y)
 - [Obfuscated to fuck](https://imgur.com/a/41aSbvw) (this means we cant read the code unless we spend hours decrpying it, meaning it is really unsafe, and also that it can hide stolen code. also if you crash, no one fuckin knows why because the crashlog is just spam of iIiIiIiiIIiIiiIiIiiiIiIiIiIiiIiiiiIIIiiIiIiiIiiIiIiiIiiIiii)
-- [Steals from DSM] (cant find screenshot but its the tic tac toe solver)
-- [Steals from SBC](https://imgur.com/a/TpkgDGU)
+- [Blatantly steals from DSM] (cant find screenshot but its the tic tac toe solver, it's literally the same thing)
+- [Blatantly Steals from SBC](https://imgur.com/a/TpkgDGU)
 - [Blatantly steals from Patcher](https://imgur.com/a/rjNF5aT)
 - [Blatantly steals from NEU](https://imgur.com/a/wqA6KZA)
 - Breaks MC EULA - Mojang can take down the mod at any time and you'd lose $5
