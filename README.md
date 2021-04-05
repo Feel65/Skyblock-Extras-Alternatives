@@ -16,6 +16,8 @@ And I guess these mods too
 | [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some cool things that are miniscule but are cool nonetheless | [Cow](https://github.com/cow-mc/) |
 | [**PetInfo**](https://github.com/CroSafan/PetInfo/releases/) | Pet Info HUD. NEU has this too but this one is more simple and more like SBE | [CroSafan](https://github.com/CroSafan) |
 
+Note: It is not recommended that you use SkyblockCatia either since that mod has a bunch of incompatibilities with other mods and has a bunch of features that aren't even for skyblock, making it the bloatiest mod I've ever seen.
+
 # Reasons NOT to Buy SBE:
 - [**Shitty puzzle solvers v1**](https://imgur.com/a/2xcDUBN)
 - [**Crashes v1**](https://imgur.com/a/nXh749Y)
