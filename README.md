@@ -41,4 +41,9 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 
 # EVEN IF YOU ALREADY BOUGHT SBE, DO NOT USE IT!
 
-Now that I saved you $5, consider giving that money to me instead.
+Now that I saved you $5, consider giving that money to me instead.\
+
+# Credits
+- [LunaNotDev](https://github.com/LunaNotdev)
+- [Lily](https://github.com/My-Name-Is-Jeff)
+- [AzuredBlue](https://github.com/AzuredBlue)
