@@ -18,7 +18,7 @@ And I guess these mods too
 
 Note: It is not recommended that you use SkyblockCatia either since that mod has a bunch of incompatibilities with other mods and has a bunch of features that aren't even for skyblock, making it the bloatiest mod I've ever seen.
 
-# Reasons NOT to Buy SBE:
+# Reasons NOT to Buy or use SBE:
 - [**Shitty puzzle solvers v1**](https://imgur.com/a/2xcDUBN)
 - [**Crashes v1**](https://imgur.com/a/nXh749Y)
 - [**Obfuscated to fuck**](https://imgur.com/a/41aSbvw) 
