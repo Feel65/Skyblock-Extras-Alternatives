@@ -22,7 +22,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 - [**Shitty puzzle solvers v1**](https://imgur.com/a/2xcDUBN)
 - [**Crashes v1**](https://imgur.com/a/nXh749Y)
 - [**Obfuscated to fuck**](https://imgur.com/a/41aSbvw) 
-    - Context: This means we cant read the code unless we spend hours decrpyting it, meaning it is really unsafe, and also that it can hide stolen code. Also if you crash, no one fuckin knows why because the crashlog is just spam of iIiIiIiiIIiIiiIiIiiiIiIiIiIiiIiiiiIIIiiIiIiiIiiIiIiiIiiIiii
+    - Context: This means we cant read the code unless we spend hours decrpyting it. This means that the mod is really unsafe as it can do anything such as pulling a JED and no one would know. It also makes it very easy for Complex to hide the fact that he steals code (more on this later). Also if you crash, no one fuckin knows why because the crashlog is just spam of iIiIiIiiIIiIiiIiIiiiIiIiIiIiiIiiiiIIIiiIiIiiIiiIiIiiIiiIiii, but at least it becomes clear how shitty SBE is and that it's what's causing the crash.
 - [**Spams the fuck out of your logs v1**](https://imgur.com/a/xQm7jeN) (no one is going to want to help you after this)
 - [**Spams the fuck out of your logs v2**](https://imgur.com/a/zanoqTA) (i dont understand how you can fuck up this badly)
 - [**Spams the fuck out of your logs v3**](https://imgur.com/a/tFODSqR) (its not even funny anymore)
@@ -34,7 +34,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 - [**Blatantly steals from NEU**](https://imgur.com/a/wqA6KZA) 
     - Context: NEU had originally made a feature that allowed you to retexture skulls with custom models. On the SBE discord, they had specifically stated that they will not be stealing features from other mods and people should not request them to add stolen features, yet they still pull this shit? At the time Moulberry was pretty pissed at SBE for blatantly stealing features and was saying on stream he was going to add dungeon puzzle solvers to make SBE useless which was when they put out that statement, but when Moulberry decided against dungeon puzzle solvers, they went straight back to stealing. Absolute losers.
 - **Breaks MC EULA**
-    - Mojang can take down the mod at any time and you'd lose $5. And no, calling it a "donation" to complex doesn't change anything in the eyes of the law.
+    - Mojang can take down the mod at any time and you'd lose $5. And no, calling it a "donation" to Complex doesn't change anything in the eyes of the law.
 - [**Performance issues**](https://imgur.com/a/944Gl8R)
     - SBE is notorious for destroying your FPS. Their attempt at fixing it was blatantly stealing patcher fps features.
 - **Complex is a shitty human being**
