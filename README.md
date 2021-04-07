@@ -13,8 +13,7 @@ And I guess these mods too
 | [**Skytils**](https://github.com/Skytils/SkytilsMod/releases) | Even more cool shit: [**List of features**](https://github.com/Skytils/SkytilsMod/blob/main/README.md) | [Sychic](https://github.com/Sychic) and [Lily](https://github.com/My-Name-Is-Jeff) |
 | [**Patcher**](https://sk1er.club/mods/patcher) | Performance enhancements, bug fixes, and QOL changes: [**List of features**](https://github.com/LunaNotdev/Patcher-Explanation) | [Asbyth](https://github.com/asbyth) ([Sk1erLLC](https://github.com/sk1erllc/)) |
 | [**SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5) | You know what this is | [Biscuit](https://biscuit.codes/) |
-| [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some cool things that are miniscule but are cool nonetheless | [Cow](https://github.com/cow-mc/) |
-| [**PetInfo**](https://github.com/CroSafan/PetInfo/releases/) | Pet Info HUD. NEU has this too but this one is more simple and more like SBE | [CroSafan](https://github.com/CroSafan) |
+| [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some cool things that are miniscule but are cool nonetheless: [**List of features**]( https://github.com/cow-mc/Cowlection/blob/master/README.md) | [Cow](https://github.com/cow-mc/) |
 
 Note: It is not recommended that you use SkyblockCatia either since that mod has a bunch of incompatibilities with other mods and has a bunch of features that aren't even for skyblock, making it the bloatiest mod I've ever seen.
 
