@@ -15,7 +15,7 @@ And I guess these mods too
 | [**SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=1.5.5) | You know what this is | [Biscuit](https://biscuit.codes/) |
 | [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | Has some cool things that are miniscule but are cool nonetheless: [**List of features**]( https://github.com/cow-mc/Cowlection/blob/master/README.md) | [Cow](https://github.com/cow-mc/) |
 
-Note: It is not recommended that you use SkyblockCatia either since that mod has a bunch of incompatibilities with other mods and has a bunch of features that aren't even for skyblock, making it the bloatiest mod I've ever seen.
+Note: It is not recommended that you use SkyblockCatia either since that mod has a bunch of incompatibilities with other mods and has a bunch of features that aren't even for skyblock, making it the bloatiest mod I've ever seen. Also the config menu is literal hell.
 
 # Reasons NOT to Buy or use SBE:
 - [**Shitty puzzle solvers v1**](https://imgur.com/a/2xcDUBN)
