@@ -19,6 +19,8 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 
 # Reasons NOT to Buy or use SBE:
 - [**Shitty puzzle solvers v1**](https://imgur.com/a/2xcDUBN)
+- [**Shitty features v1**](https://imgur.com/a/zvNFdU2)
+- [**Shitty features v2**](https://imgur.com/a/HPwYXeT)
 - [**Crashes v1**](https://imgur.com/a/nXh749Y)
 - [**Obfuscated to fuck**](https://imgur.com/a/41aSbvw) 
     - Context: This means we cant read the code unless we spend hours decrpyting it. This means that the mod is really unsafe as it can do anything such as pulling a JED and no one would know. It also makes it very easy for Complex to hide the fact that he steals code (more on this later). Also if you crash, no one fuckin knows why because the crashlog is just spam of iIiIiIiiIIiIiiIiIiiiIiIiIiIiiIiiiiIIIiiIiIiiIiiIiIiiIiiIiii, but at least it becomes clear how shitty SBE is and that it's what's causing the crash.
