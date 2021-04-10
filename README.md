@@ -49,3 +49,5 @@ Now that I saved you $5, consider giving that money to me instead.
 - [LunaNotDev](https://github.com/LunaNotdev)
 - [Lily](https://github.com/My-Name-Is-Jeff)
 - [AzuredBlue](https://github.com/AzuredBlue)
+- Angry_Pineapple
+- [bumble](https://github.com/itsbumble)
