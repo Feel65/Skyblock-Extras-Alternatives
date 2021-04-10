@@ -35,7 +35,7 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 - [**Blatantly steals from NEU**](https://imgur.com/a/wqA6KZA) 
     - Context: NEU had originally made a feature that allowed you to retexture skulls with custom models. On the SBE discord, they had specifically stated that they will not be stealing features from other mods and people should not request them to add stolen features, yet they still pull this shit? At the time Moulberry was pretty pissed at SBE for blatantly stealing features and was saying on stream he was going to add dungeon puzzle solvers to make SBE useless which was when they put out that statement, but when Moulberry decided against dungeon puzzle solvers, they went straight back to stealing. Absolute losers.
 - **Breaks MC EULA**
-    - Mojang can take down the mod at any time and you'd lose $5. And no, calling it a "donation" to Complex doesn't change anything in the eyes of the law.
+    - Mojang can take down the mod at any time and you'd lose $5. And no, calling it a "donation to Complex" doesn't change anything in the eyes of the law.
 - [**Performance issues**](https://imgur.com/a/944Gl8R), and [**even more performance issues**](https://imgur.com/bxJyO2X)
     - SBE is notorious for destroying your FPS. Their attempt at fixing it was blatantly stealing patcher fps features.
 - **Complex is a shitty human being**
