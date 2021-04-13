@@ -17,6 +17,9 @@ And I guess these mods too
 
 Note: It is not recommended that you use SkyblockCatia either since that mod has a bunch of incompatibilities with other mods and has a bunch of features that aren't even for skyblock, making it the bloatiest mod I've ever seen. Also the config menu is literal hell.
 
+# You can use SkyClient to install all of these mods quickly and painlessly, at no extra price
+[**Discord**](https://discord.com/invite/VH6fdBYzQQ)
+
 # Reasons NOT to Buy or Use SBE:
 - [**Shitty puzzle solvers v1**](https://imgur.com/a/2xcDUBN)
 - [**Shitty features v1**](https://imgur.com/a/zvNFdU2)
@@ -57,3 +60,6 @@ Note: It is not recommended that you use SkyblockCatia either since that mod has
 - [bumble](https://github.com/itsbumble)
 
 # Now that I saved you $5, consider giving that money to me instead.
+
+
+
